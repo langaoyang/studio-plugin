@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.langaoyang.studioplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.langaoyang.studioplugin.MyBundle
 
 class MyApplicationService {
 
